@@ -31,4 +31,14 @@ optional arguments:
     git clone https://github.com/getyourbots/wordpressbruteforcer
     
 ### Prerequisites
-    - Python 2.7 - https://www.python.org/downloads/release/python-2710/
+- ![Python 2.7](https://www.python.org/downloads/release/python-2710/)
+
+
+### DISCLAIMER
+Usage of wordpress bruteforcer for attacking targets without prior mutual consent is illegal.
+It is the end user's responsibility to obey all applicable local, state and federal laws.
+Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+
+### LICENSE
+#### GNU 3
+GNU General Public License, version 3.
